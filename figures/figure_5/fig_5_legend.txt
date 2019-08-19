@@ -1,1 +1,4 @@
-###
+### Figure 5 ###
+
+a)	Link prediction performance (mean performance over 10 runs) of GraphSage-based algorithm (measured by neuronal correlation correctly predicted) when the frequency tuning curves of the neurons are supplied as features. Link prediction performance is enhanced when features of the neighbouring nodes are known and aggregated into the algorithm. Search depth of the algorithm is denoted by k (k=0,1,2). Error bars depict ± 2 S.E.M. Single asterisk denotes p<0.05.
+b)	Link prediction performance (mean performance over 10 runs) of GraphSage-based algorithm (measured by neuronal correlation correctly predicted) when all features of the neurons extracted from the correlation datasets are supplied to the algorithm.Performance is better than with frequency tuning alone, and search depth does not enhance link prediction. Search depth of the algorithm is denoted by k (k=0,1,2). Error bars depict ± 2 S.E.M. Single asterisk denotes p<0.05.

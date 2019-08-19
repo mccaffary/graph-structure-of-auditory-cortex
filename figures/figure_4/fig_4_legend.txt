@@ -1,1 +1,4 @@
-###
+### Figure 4 ###
+
+a)	Representative connectivity matrix (that is neuronal correlation matrix) from real neuronal dataset. The sparsity of the connectivity matrix of the neuronal dataset is clearly visible here.
+b)	Representative frequency tuning curves for neurons presented with a range of sounds at different frequencies. These frequency tuning curves can be used as the features of each respective neuron; that is, the response of the neuron at each of the presented frequencies (in this case, 20 distinct frequencies) is used as a feature of that neuron. GraphSage subsequently uses the features of each neuron (treated as a node in the graph) for link prediction.

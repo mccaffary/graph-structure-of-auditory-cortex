@@ -1,1 +1,4 @@
-###
+### Figure 6 ###
+
+a)	Representative curve demonstrating principal component analysis of the latent space learned by the GraphSage model. This was performed to give an overview of the structure and complexity of the latent space of the model. Number of principal components (denoted PCs) against cumulative variance explained. Grey vertical line denotes the first principal component (that is, when PC=1), the variable which explains most of the variance observed in this case.
+b)	Link prediction performance (mean performance over 10 runs) of GraphSage-based algorithm (measured by neuronal correlation correctly predicted). Blue colour denotes runs in which population coupling alone was supplied as a feature to the algorithm for link prediction. Red colour denotes runs in which population coupling as provided in addition to all other extracted features (such as frequency tuning curves and spatial information). When population coupling is supplied, no additional benefit to link prediction performance is conferred by the inclusion of other features. Error bars depict ± 2 S.E.M. Single asterisk denotes p<0.05.
